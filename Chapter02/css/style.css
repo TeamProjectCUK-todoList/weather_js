@@ -1,0 +1,9 @@
+/* 해당 폼 숨기기
+/* HTML의 <form> 안에 class = .hidden 을 추가하면됨 */
+
+/* ... (기존 코드) ... */
+
+.hidden {
+    display: none;
+}
+
